@@ -30,7 +30,7 @@ Ni bestämmer er för att leta där, men det är ett stort ställe. Ni måste pl
 
 Om ni **går dit inatt och smyger in**, gå till 7.
 
-Om ni **väntar tills imorgon och tar med er verktyg**, gå till 8.
+Om ni **väntar tills imorgon när det är ljust**, gå till 8.
 
 ## 4
 
@@ -109,7 +109,9 @@ Om ni **tar er in genom dörren**, gå till 15.
 
 ## 12
 
-Ni delar upp er och hittar en gammal kontorsbyggnad och ett skjul. I kontorsbyggnaden hittar ni dokument markerade **Avfallstransport** och kartor som visar platser där avfall dumpats på. En mobiltelefon vibrerar i en låda.
+Ni delar upp er och hittar en gammal kontorsbyggnad och ett skjul. I kontorsbyggnaden hittar ni dokument markerade **Kostnadsbesparingar vid hanering av farligt avfall** och kartor som visar platser där avfall dumpas ute i skogen och Mälaren. En mobiltelefon vibrerar i en låda.
+
+"Det här kan inte vara lagligt", tänker ni.
 
 Utanför hör ni bildörrar öppnas och slås igen. Någon har kommit tillbaka!
 
@@ -119,7 +121,9 @@ Om ni **skyndar er därifrån**, gå till 17.
 
 ## 13
 
-Ni håller ihop och rör er försiktigt över soptippen. En halvt förfallen gammal kontorsbyggnad står med dörren på glänt. Ni går in och hittar dokument markerade **Avfallstransport** och kartor som visar platser där avfall dumpats på. En mobiltelefon vibrerar i en låda.
+Ni håller ihop och rör er försiktigt över soptippen. En halvt förfallen gammal kontorsbyggnad står med dörren på glänt. Ni går in och hittar dokument markerade **Kostnadsbesparingar vid hanering av farligt avfall** och kartor som visar platser där avfall dumpas ute i skogen och Mälaren. En mobiltelefon vibrerar i en låda.
+
+"Det här kan inte vara lagligt", tänker ni.
 
 Utanför hör ni bildörrar öppnas och slås igen. Någon har kommit tillbaka!
 
@@ -129,9 +133,9 @@ Om ni **skyndar er därifrån**, gå till 17.
 
 ## 14
 
-Genom fönstret klättrar ni in i mörkret. Det sticks in näsan när ni andas av damm och kemikalier. Ni hör fotsteg i närheten.
+Genom fönstret klättrar ni in i mörkret. Det sticks in näsan när ni andas av damm och kemikalier. På ett bord ligger kartor som visar platser ute i skogen där farligt avfall dumpas. "Det här kan inte vara lagligt", tänker ni.
 
-På ett skrivbord lyser en telefon plötsligt upp mörkret. Ni ser meddelandet: "Rensat och klart. Scouten inlåst i skjulet. Gör oss av med resten imorgon."
+På ett skrivbord lyser en telefon plötsligt upp mörkret. Ni ser meddelandet: "Rensat och klart. Scouten inlåst i skjulet. Gör oss av med resten imorgon." Ni hör fotsteg i närheten.
 
 Om ni **stjäl telefonen**, gå till 18.
 
@@ -141,7 +145,7 @@ Om ni **skyndar er därifrån och berättar för polisen vad ni sett**, gå till
 
 Dörren gnisslar när ni öppnar den. Det sticks in näsan när ni andas av damm och kemikalier. Ni hör fotsteg i närheten.
 
-På ett skrivbord ligger mappar med dokument och en mobiltelefon.
+På ett skrivbord ligger mappar med dokument och en mobiltelefon. Kartor visar platser ute i skogen där farligt avfall dumpas. "Det här kan inte vara lagligt", tänker ni.
 
 Om ni **stjäl telefonen och dokumenten**, gå till 18.
 
@@ -203,7 +207,7 @@ Polisen suckar: "Det ser ut som de han rensa det här ställen innan vi kom".
 
 ## 22
 
-Ni flyr ut i skogen, ficklampor skiner i skogen efter er och hundar skäller. När polisen söker i området dagen efter hittar de bara en ryggsäck med traisg telefon i, och några brända papper.
+Ni flyr ut i skogen, ficklampor skiner i skogen efter er och hundar skäller. När polisen söker i området dagen efter hittar de bara en ryggsäck med trasig telefon i, och några brända papper.
 
 **SLUT**
 
